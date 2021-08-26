@@ -14,7 +14,7 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (tasks-SGiYN4Vs-py3.9)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.9.6 Docker Compose (web at [C:\Users\Alvin\Documents\PythonProjects\tasks\docker-compose.yml])" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
